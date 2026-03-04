@@ -1,0 +1,2 @@
+[console_scripts]
+jwtforge = jwtforge.cli:main

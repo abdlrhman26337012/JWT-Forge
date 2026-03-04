@@ -1,3 +1,30 @@
+Metadata-Version: 2.4
+Name: jwtforge
+Version: 1.0.0
+Summary: All-in-one JWT exploitation suite: none alg, key confusion, brute force, KID injection, JKU/X5U spoofing
+Home-page: https://github.com/yourusername/jwtforge
+Author: JWTForge
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Security
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: click>=8.0.0
+Requires-Dist: rich>=13.0.0
+Requires-Dist: cryptography>=41.0.0
+Dynamic: author
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
 <div align="center">
 
 ```
