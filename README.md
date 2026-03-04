@@ -600,3 +600,4 @@ Made with ☕ and too much JWT research.
 1. Clone the repository
 2. Install dependencies
 3. Run JWT-Forge
+Line from Abdulrahman
