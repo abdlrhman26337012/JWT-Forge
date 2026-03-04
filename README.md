@@ -1,3 +1,6 @@
+# JWT-Forge
+
+[![CI Pipeline](https://github.com/abdlrhman26337012/JWT-Forge/actions/workflows/ci.yml/badge.svg)](https://github.com/abdlrhman26337012/JWT-Forge/actions/workflows/ci.yml)
 <div align="center">
 
 ```
